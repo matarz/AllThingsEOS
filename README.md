@@ -1,1 +1,1 @@
-# AllThingsEOS
+A simple list of **live, usable, and tested** EOS tools and projects. This list is open source, please suggest your links by opening a pull request or reach us on [telegram](https://t.me/eos_arabia).
